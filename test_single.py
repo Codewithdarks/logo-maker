@@ -7,9 +7,9 @@ certificate_data = {
     'logo_position': 'left',
     'course_title': 'Certificate of Completion',
     'course_sub': 'Welcome!',
-    'name': 'Amit Tiwari',
+    'name': 'Sachin Kumar',
     'value': 'has successfully completed WorkTRADE, an online training module on the Prevention of Insider Trading in India covering the Securities and Exchange Board of India (SEBI) Regulations. By completing this training module, you have demonstrated your dedication to upholding ethical standards in the financial markets and preventing the misuse of confidential information. Your commitment to compliance and integrity is commendable.',
-    'date': '09-09-2023',
+    'date': 'June 06, 2025',
     'ceo_signature': 'https://s3rain.s3.ap-south-1.amazonaws.com/1749188910271_Antony_Alex_RM_Signatory.jpg.png',
     'ceo_name': 'Antony Alex',
     'ceo_title': 'CEO - Rainmaker'
